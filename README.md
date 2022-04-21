@@ -6,7 +6,7 @@ This is a small flexbox component that build using css flexbox and its like a pi
 
 <!-- ![](./flexbox-fizza-cart/screenshot/screenshot.jpg) -->
 
-![Github Banner](./flexbox-fizza-cart/screenshot/screenshot.jpg)
+![Github Banner](./flexbox-fizza-cart/screenshot/screenshot.PNG)
 
 ### Built with
 
