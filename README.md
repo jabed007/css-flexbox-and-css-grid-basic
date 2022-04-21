@@ -4,7 +4,7 @@ This is a small component that build using Flexbox
 
 ### Screenshot
 
-![](./screenshots/screenshot-1.png)
+![](./screenshot/screenshot.png)
 
 ### Built with
 
