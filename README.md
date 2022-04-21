@@ -1,10 +1,10 @@
 # Fizza Cart
 
-This is a small component that build using Flexbox
+This is a small flexbox component that build using Flexbox
 
 ### Screenshot
 
-![](./screenshot/screenshot.png)
+![]()
 
 ### Built with
 
