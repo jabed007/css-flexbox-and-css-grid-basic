@@ -1,0 +1,18 @@
+/* 
+Green: #67b26f
+Blue: #4ca2cd
+Mid: #5aaa9d
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(to bottom right, #67b26f, #4ca2cd);
+  padding: 100px;
+  color: #444;
+}
