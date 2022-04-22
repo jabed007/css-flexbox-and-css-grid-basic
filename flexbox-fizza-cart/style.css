@@ -1,8 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* Basic Color */
+
 /* 
 Green: #67b26f
 Blue: #4ca2cd
 Mid: #5aaa9d
 */
+
+/* Global Settings */
 
 * {
   margin: 0;
@@ -12,7 +18,46 @@ Mid: #5aaa9d
 
 body {
   height: 100vh;
+  font-family: Roboto;
   background: linear-gradient(to bottom right, #67b26f, #4ca2cd);
   padding: 100px;
   color: #444;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pizza {
+  max-width: 800px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 10px 80px 30px rgba(0, 0, 0, 0.2);
+  display: flex;
+}
+
+.pizza__hero {
+  flex: 0 0 45%;
+}
+
+.pizza__img {
+  width: 100%;
+  display: block;
+}
+
+.pizza__content {
+  background-color: #fff;
+  flex: 1;
+}
+
+.pizza__price {
+  background: linear-gradient(to bottom, #67b26f, #4ca2cd);
+  color: #fff;
+  font-size: 18px;
+  writing-mode: vertical-rl;
+  flex: 0 1 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
